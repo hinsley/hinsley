@@ -3,6 +3,6 @@ I'm a Mathematics and Computer Science student from Northeast Georgia. My intere
 ---
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hinsley&custom_title=github.com/hinsley&include_all_commits=true&include_private=true&hide_rank=true&hide=contribs&show_icons=true&theme=vue">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinsley&hide=jupyter+notebook&langs_count=7&theme=vue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hinsley&custom_title=github.com/hinsley&include_all_commits=true&include_private=true&hide_rank=true&hide=contribs&show_icons=true&theme=vue">
 </div>
